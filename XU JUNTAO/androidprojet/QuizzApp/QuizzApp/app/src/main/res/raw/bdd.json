@@ -1,0 +1,221 @@
+{
+    "questionsFaciles" : [
+        { "question" : "Dans le célèbre film OSS117 le Caire nid d’espion, quelle est la syntaxe correcte de cette citation :",
+          "bonneReponse" : "Comment est votre blanquette ?",
+          "reponseA" : "Comment va votre blanquette ?",
+          "reponseB" : "Comment se porte votre blanquette ?",
+          "reponseC" : "Où en est la cuisson de votre blanquette ?"
+        },
+        
+        { "question" : "Dans le livre de la jungle, quel animal représente le méchant ?",
+          "bonneReponse" : "Un tigre",
+          "reponseA" : "Un serpent",
+          "reponseB" : "Un lion",
+          "reponseC" : "Un phacochère"
+        },   
+        
+        { "question" : "Lorsqu’on invite un pancake à une barmitzva, les convives doivent :",
+          "bonneReponse" : "L’inciter à boire à l’open barmitzva",
+          "reponseA" : "Lui présenter Raymond Barmitzva",
+          "reponseB" : "Lui offrir des malabarmitzva",
+          "reponseC" : "Mais qu'est-ce que j'en sais moi ?"
+        },
+        
+        { "question" : "On va s’aimer sur une étoile sur un…",
+          "bonneReponse" : "Oreiller",
+          "reponseA" : "Baudrier",
+          "reponseB" : "Destrier",
+          "reponseC" : "Lit superposé"
+        },
+        
+        { "question" : "Bande de chacals, vous allez mourir comme…",
+          "bonneReponse" : "Des chacals",
+          "reponseA" : "Des mecs banals",
+          "reponseB" : "Une nuit automnale",
+          "reponseC" : "Le roi Bâal"
+        },
+        
+        { "question" : "Comment dit-on santé en russe ?",
+          "bonneReponse" : "Nasdrovia",
+          "reponseA" : "Nasdrovie",
+          "reponseB" : "Nadrovi",
+          "reponseC" : "Nasdrovu"
+        },
+        
+        { "question" : "Quel célèbre dictateur dirigea l’URSS durant les années 1920 à 1953 ?",
+          "bonneReponse" : "Staline",
+          "reponseA" : "Molotov",
+          "reponseB" : "Trotsky",
+          "reponseC" : "Lénine"
+        },
+        
+        { "question" : "À qui doit-on la chanson « I shot the sheriff » ?",
+          "bonneReponse" : "Bob Marley",
+          "reponseA" : "UB40",
+          "reponseB" : "Eric Clapton",
+          "reponseC" : "Jim Morrisson"
+        },
+
+		{ "question" : "Quel animal est le plus dangeureux pour l'homme ?",
+		  "bonneReponse" : "Le moustique",
+		  "reponseA" : "L'humain",
+		  "reponseB" : "Le chien",
+		  "reponseC" : "Le serpent"
+		},
+
+		{ "question" : "Quelle est la taille de la tour Eiffel ?",
+		  "bonneReponse" : "324m",
+          "reponseA" : "281m",
+          "reponseB" : "352m",
+          "reponseC" : "386m"
+		}
+        
+    ], 
+    
+    
+    "questionsDifficiles" : [
+        { "question" : "Sur les 80 apprenants du module java, combien sont inscrits au rattrapage de mars ?",
+          "bonneReponse" : "52",
+          "reponseA" : "32",
+          "reponseB" : "45",
+          "reponseC" : "65"
+        },
+
+        { "question" : "Quelle est l’année de sortie de la version jaune/rouge/bleue de Pokémon sur console ?",
+          "bonneReponse" : "1996",
+          "reponseA" : "1990",
+          "reponseB" : "1994",
+          "reponseC" : "2000"
+        },
+
+        { "question" : "Complétez ce vers de Louise Labé :",
+          "bonneReponse" : "Je vis je meurs je me brûle et me noie",
+          "reponseA" : "Je vis je meurs je me brûle et me dandine",
+          "reponseB" : "Je vis je meurs je me brûle et me morfonds",
+          "reponseC" : "Je vis je meurs je me brûle et renais de mes cendres"
+        },
+
+        { "question" : "Avec quel animal le lion ne s’associe-t-il pas ?",
+          "bonneReponse" : "Le cafard",
+          "reponseA" : "L’éléphant",
+          "reponseB" : "Le perroquet",
+          "reponseC" : "Le potoo"
+        },
+
+        { "question" : "Par quel fleuve est traversée la ville de Rome ?",
+          "bonneReponse" : "Le Tibre",
+          "reponseA" : "L’Euphrate",
+          "reponseB" : "La Volga",
+          "reponseC" : "La Deule"
+        },
+
+        { "question" : "Lequel de ces animaux n'existe pas ?",
+          "bonneReponse" : "Le touflu",
+          "reponseA" : "Le potoo",
+          "reponseB" : "L’hémione",
+          "reponseC" : "La gaufre"
+        },
+
+        { "question" : "Qu’est-ce qui a 3 bras, un seul chapeau, 2 chemises et une veste, un foulard, un pistolet et 4 oreilles ?",
+          "bonneReponse" : "Le cowboy de Tchernobyl",
+          "reponseA" : "Un cowboy à deux têtes",
+          "reponseB" : "Une cowgirl inversée",
+          "reponseC" : "Mais c’est toi et ton compagnon !"
+        },
+
+        { "question" : "Qu’est-ce qui n’est pas une relance au fameux jeu populaire du pays de Galle : Le Sloubi ?",
+          "bonneReponse" : "Régoudon",
+          "reponseA" : "Jeu-moulin",
+          "reponseB" : "Joue-ganou",
+          "reponseC" : "Ratacat-mit"
+        },
+
+        { "question" : "Quelle est la monnaie la plus faible au monde ?",
+          "bonneReponse" : "Le dong",
+          "reponseA" : "Le yuan",
+          "reponseB" : "Le franc CFA",
+          "reponseC" : "La couronne tchèque"
+        },
+
+        { "question" : "Qui était le dieu de la guerre dans la mythologie grecque ?",
+          "bonneReponse" : "Arès",
+          "reponseA" : "Hadès",
+          "reponseB" : "Apollon",
+          "reponseC" : "Hermes"
+        }
+
+    ],
+
+    "questionsDecalees" : [
+        { "question" : "Une base de jaune d’œuf et de beurre chauffé avec des échalottes, estragon et cerfeuil.",
+          "bonneReponse" : "Quelle est la recette de la sauce béarnaise ?",
+          "reponseA" : "Quelle est la recette de la sauce hollandaise ?",
+          "reponseB" : "Quelle recette d’après shampoing maison est efficace ?",
+          "reponseC" : "Quelle recette pour éviter les maux d’estomac ?"
+        },
+        
+        { "question" : "Je ne regrette rien.",
+          "bonneReponse" : "Dans quelle chanson Edith Piaf se fout du passé ?",
+          "reponseA" : "Quelles sont les dernières paroles d’Al Capone ?",
+          "reponseB" : "Que dit Joey dans Friends après avoir mangé le brownie de son rencard ?",
+          "reponseC" : "Que pense Nemo en revenant à la maison ?"
+        },
+        
+        { "question" : "…feur !",
+          "bonneReponse" : "Quoi ?",
+          "reponseA" : "Qui ?",
+          "reponseB" : "Où ?",
+          "reponseC" : "Comment ?"
+        },
+        
+        { "question" : "Ah le voilà !",
+          "bonneReponse" : "Il est où le bébé ?",
+          "reponseA" : "J’ai posé où mon donut ?",
+          "reponseB" : "Qui a vu mon parapluie ?",
+          "reponseC" : "J’ai perdu un doigt de pied"
+        },
+        
+        { "question" : "1963",
+          "bonneReponse" : "En quelle année John F Kennedy a-t-il été assasiné ?",
+          "reponseA" : "En quelle année John F Kennedy s'est-il marié? ",
+          "reponseB" : "En quelle année John F Kennedy a-t-il été élu président des USA ?",
+          "reponseC" : "En quelle année John F Kennedy s'est-il présenté à l'élection américaine ?"
+        },
+
+		{ "question" : "La pyramide de Khéops.",
+          "bonneReponse" : "Quelle est la dernière des 7 merveilles du monde antique encore debout ?",
+          "reponseA" : "Quel est le plus haut batiment d'Afrique ?",
+          "reponseB" : "Quelle est la plus ancienne construction d'Egypte ?",
+          "reponseC" : "Quel bâtiment renferme le tombeau de Toutânkhamon ?"
+		},
+
+		{ "question" : "1159 euros",
+          "bonneReponse" : "Quel est le prix de l'IphoneX sur le site officiel (mars 2018) ?",
+          "reponseA" : "Quel est le salaire minimum en France ?",
+          "reponseB" : "Quel est le prix de 100g d'or (mars 2018) ?",
+          "reponseC" : "Quel est le prix d'une consulation chez le médecin ?"
+		},
+
+		{ "question" : "Il a été guillotiné.",
+          "bonneReponse" : "Comment est mort Louis XVI ?",
+          "reponseA" : "Comment est mort Henri IV ?",
+          "reponseB" : "Comment est mort Louis XV ?",
+          "reponseC" : "Comment est mort Honoré de Balzac ?"
+		},
+
+		{ "question" : "1940",
+          "bonneReponse" : "Quand est né John Lennon ?",
+          "reponseA" : "Quand est né Paul McCartney ?",
+          "reponseB" : "Quand est né Elvis Presley ?",
+          "reponseC" : "Quand est né Elton John ?"
+		},
+
+		{ "question" : "5750",
+          "bonneReponse" : "Quelle est la température du soleil ?",
+          "reponseA" : "Quel est le nombre d'espèces de chiens ?",
+          "reponseB" : "Quelle est la taille du plus haut sommet d'Afrique ?",
+          "reponseC" : "Quel est le nombre de décès par les chutes d'escaliers par an (en France) ?"
+		}
+    ]
+}
+

@@ -1,0 +1,24 @@
+#content{
+	margin-top: 20px;
+}
+.btn .btn-primary{
+	background-color: #C0B283
+}
+.jumbotron p{
+	font-size: 17px;
+}
+img{
+	width:150px;
+	height:150px;
+}
+.dropdown-menu{
+	padding-left: 70px;
+	padding-right: 70px;
+}
+.border{
+	border: solid;
+}
+body{
+	background-color: #dcdcdc;
+}
+
